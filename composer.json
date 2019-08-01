@@ -1,5 +1,5 @@
 {
-  "name": "Deakin/php-ntlm",
+  "name": "jamesiarmes/php-ntlm",
   "description": "Library for communicating with Microsoft services using NTLM authentication.",
   "license": "MIT",
   "authors": [
